@@ -1,3 +1,0 @@
-sfsf
-ddd
-password = 123455
